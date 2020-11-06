@@ -41,7 +41,7 @@ nav {
     font-size: 20px;
 }
 
-.unrdrdLst {
+nav ul {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
