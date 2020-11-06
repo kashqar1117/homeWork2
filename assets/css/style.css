@@ -47,7 +47,7 @@ nav ul {
     margin-left: 25px;
 }
 
-.list {
+nav ul li {
     display: inline-block;
     margin-left: 25px;
     
